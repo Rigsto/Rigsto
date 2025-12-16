@@ -18,8 +18,8 @@
 - [rigsto/api-http-status](https://github.com/Rigsto/api-http-status) - HTTP status codes and resources for API usages
 
 ### Java Maven Dependencies
-- [io.github.rigsto.emailvalidator](https://central.sonatype.com/artifact/io.github.rigsto/emailvalidator) - A Java library to validate email address
-- [id.xtramile.indonesia](https://central.sonatype.com/artifact/id.xtramile/indonesia) - A Java library for Indonesian administrative data (Provinces, Cities, Districts, Villages)
+- [io.github.rigsto.emailvalidator](https://github.com/Rigsto/email-validator) - A Java library to validate email address
+- [id.xtramile.indonesia](https://github.com/XTMDevelopment/indonesia) - A Java library for Indonesian administrative data (Provinces, Cities, Districts, Villages)
 
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/auriga-aristo)
