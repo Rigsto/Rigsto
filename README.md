@@ -21,6 +21,9 @@
 - [io.github.rigsto.emailvalidator](https://github.com/Rigsto/email-validator) - A Java library to validate email address
 - [id.xtramile.indonesia](https://github.com/XTMDevelopment/indonesia) - A Java library for Indonesian administrative data (Provinces, Cities, Districts, Villages)
 
+### Golang Dependencies
+- [github.com/Rigsto/go-email-validator](https://github.com/Rigsto/go-email-validator) - A Go library to validate email address
+
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/auriga-aristo)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aurigaaristo)
